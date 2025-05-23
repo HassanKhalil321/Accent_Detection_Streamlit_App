@@ -1,0 +1,7 @@
+streamlit
+yt-dlp
+moviepy
+librosa
+tensorflow
+imageio[ffmpeg]
+numpy<2.2.0  # For TensorFlow compatibility
